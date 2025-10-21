@@ -1,8 +1,6 @@
 <h1 align="center">Heyo 👋, I'm Allison</h1>
 <h3 align="center">An aspiring software developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=allison-stack&label=Profile%20views&color=0e75b6&style=flat" alt="allison-stack" /> </p>
-
 - 🔭 I’m currently working on **testing/optimizing Huawei's cloud-native databases**
 
 - 🌱 I’m currently learning **AI/ML**
