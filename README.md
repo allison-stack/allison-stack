@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **allisonzhao.uni@gmail.com**
 
-- ⚡ Fun fact **quantum physics is cool**
+- ⚡ Fun fact **I dabble in quantum physics a little here and there**
 
 
 <h3 align="left">Languages and Tools:</h3>
