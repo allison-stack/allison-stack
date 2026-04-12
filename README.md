@@ -1,7 +1,5 @@
-<h1 align="center">Heyo 👋, I'm Allison</h1>
+<h1 align="center">Hey 👋, I'm Allison</h1>
 <h3 align="center">An aspiring software developer</h3>
-
-- 🔭 I’m currently working on **testing/optimizing Huawei's cloud-native databases**
 
 - 🌱 I’m currently learning **AI/ML**
 
