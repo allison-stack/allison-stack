@@ -1,7 +1,7 @@
 <div align="center">
 
-<img src="generated/overview.svg" alt="stats overview" />
-<img src="generated/languages.svg" alt="top languages" />
+<img src="https://raw.githubusercontent.com/allison-stack/github-stats-transparent/output/generated/overview.svg" alt="stats overview" />
+<img src="https://raw.githubusercontent.com/allison-stack/github-stats-transparent/output/generated/languages.svg" alt="top languages" />
 
 <br/>
 
